@@ -88,4 +88,5 @@ int main(int argc, char *argv[]) {
 
 // hello
 int x;
-
+int y;
+int z;
